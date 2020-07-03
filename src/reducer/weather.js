@@ -1,4 +1,4 @@
-import { IPSTACK } from '../actions/ActionTypes';
+import { IPSTACK, WEATHER } from '../actions/ActionTypes';
 
 const initialState = {
   loading: false,
@@ -20,6 +20,17 @@ export const reducer = (state = initialState, action) => {
 				publicIP: action.payload.data
       };
     case IPSTACK.FETCH_FAILED:
+      return {
+        ...state,
+        loading: false
+      };
+    case WEATHER.FETCH_WEATHER_SUCCESS:
+      return {
+        ...state,
+        loading: false,
+        weather: action.payload.data
+      };
+    case WEATHER.FETCH_WEATHER_FAILED:
       return {
         ...state,
         loading: false

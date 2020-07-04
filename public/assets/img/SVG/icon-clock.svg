@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>icon - clock@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16,1.33333333 C7.86666667,1.33333333 1.33333333,7.86666667 1.33333333,16 C1.33333333,24.1333333 7.86666667,30.6666667 16,30.6666667 C24.1333333,30.6666667 30.6666667,24.1333333 30.6666667,16 C30.6666667,7.86666667 24.1333333,1.33333333 16,1.33333333 Z M16,28 C9.33333333,28 4,22.6666667 4,16 C4,9.33333333 9.33333333,4 16,4 C22.6666667,4 28,9.33333333 28,16 C28,22.6666667 22.6666667,28 16,28 Z M20.9333333,19.0666667 C21.4666667,19.6 21.4666667,20.4 20.9333333,20.9333333 C20.6666667,21.2 20.4,21.3333333 20,21.3333333 C19.6,21.3333333 19.3333333,21.2 19.0666667,20.9333333 L15.0666667,16.9333333 C14.8,16.6666667 14.6666667,16.4 14.6666667,16 L14.6666667,8 C14.6666667,7.2 15.2,6.66666667 16,6.66666667 C16.8,6.66666667 17.3333333,7.2 17.3333333,8 L17.3333333,15.4666667 L20.9333333,19.0666667 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Web-(Min1024px)---Loading-Weather-Widget" transform="translate(-117.000000, -4068.000000)">
+            <g id="1.0-Home-Page---3-Features-with-short-desc." transform="translate(0.000000, 3820.000000)">
+                <g id="feature-breakdown" transform="translate(85.000000, 208.000000)">
+                    <g id="working-hour">
+                        <g id="icon-3" transform="translate(32.000000, 40.000000)">
+                            <g id="icon-/-clock">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill="#FF7E00" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

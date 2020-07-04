@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>icon - loading@1x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Web-(Min1024px)---Loading-Weather-Widget" transform="translate(-608.000000, -1054.000000)">
+            <g id="Weather-" transform="translate(0.000000, 940.000000)">
+                <g id="Weather-Widget" transform="translate(150.000000, 42.000000)">
+                    <g id="Group-3" transform="translate(458.000000, 72.000000)">
+                        <g id="icon/custom/loading">
+                            <g>
+                                <rect id="Base" x="0" y="0" width="64" height="64"></rect>
+                                <path d="M32,62 C15.4314575,62 2,48.5685425 2,32 C2,15.4314575 15.4314575,2 32,2 L32,9.82608696 L32,9.82608696 C19.753686,9.82608696 9.82608696,19.753686 9.82608696,32 C9.82608696,44.246314 19.753686,54.173913 32,54.173913 C44.2459803,54.173913 54.173372,44.246855 54.173913,32.0010011 L62,32 L62,32 C62,48.5685425 48.5685425,62 32,62 Z" id="asset" fill="#FF7E00" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

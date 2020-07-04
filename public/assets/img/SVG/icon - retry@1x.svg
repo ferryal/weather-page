@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>icon - retry@1x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Web-(Min1024px)---Loading-Weather-Widget" transform="translate(-608.000000, -1054.000000)">
+            <g id="Weather-" transform="translate(0.000000, 940.000000)">
+                <g id="Weather-Widget" transform="translate(150.000000, 42.000000)">
+                    <g id="Group-3" transform="translate(458.000000, 72.000000)">
+                        <g id="icon/arrows/rotate-ccw">
+                            <g>
+                                <rect id="Base" x="0" y="0" width="64" height="64"></rect>
+                                <path d="M16.5148338,18.6666667 L26.6666667,18.6666667 L26.6666667,24 L8,24 L8,5.33333333 L13.3333333,5.33333333 L13.3333333,14.0542636 C17.9336186,8.48669808 24.5220437,5.33333333 32,5.33333333 C46.7275933,5.33333333 58.6666667,17.2724067 58.6666667,32 C58.6666667,46.7275933 46.7275933,58.6666667 32,58.6666667 C17.2724067,58.6666667 5.33333333,46.7275933 5.33333333,32 L10.6666667,32 C10.6666667,43.7820747 20.2179253,53.3333333 32,53.3333333 C43.7820747,53.3333333 53.3333333,43.7820747 53.3333333,32 C53.3333333,20.2179253 43.7820747,10.6666667 32,10.6666667 C25.6170032,10.6666667 20.142773,13.5431903 16.5148338,18.6666667 Z" id="icon" fill-opacity="0.4" fill="#191919" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

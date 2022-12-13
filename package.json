@@ -5,7 +5,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "moment": "^2.27.0",
     "prop-types": "^15.6.2",
     "public-ip": "^4.0.1",
